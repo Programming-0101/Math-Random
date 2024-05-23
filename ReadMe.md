@@ -1,6 +1,6 @@
 # Grokking Math.random()
 
-Just a little project to render the significant digits of Math.random() in a table. I wanted to compare how the digits "repeat" in subsequent random numbers.
+Just a little project to render the significant digits of JavaScript's `Math.random()` in a table. I wanted to compare how the digits "repeat" in subsequent random numbers.
 
 ## Quick FAQ
 
