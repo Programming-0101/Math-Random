@@ -1,0 +1,20 @@
+{
+  "name": "math-random",
+  "version": "1.0.0",
+  "description": "A visual exploration of JavaScript's Math.random() function",
+  "scripts": {
+    "dev": "vite",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdom": "^24.0.0",
+    "vite": "^5.2.11",
+    "vitest": "^1.6.0"
+  },
+  "dependencies": {
+    "@picocss/pico": "^2.0.6"
+  }
+}

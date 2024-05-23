@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="module" src="./src/main.js"></script>
+    <link rel="stylesheet" href="./src/main.css">
+</head>
+
+<body>
+    <main class="container">
+        <h1>Visualizing <button id="generate" type="button">Math.random()</button></h1>
+        <fieldset class="grid">
+            <label>Rows <output>20</output>
+                <input type="range" id="rowCount" min="5" max="20" value="20"></label>
+            <label>Digits <output>16</output>
+                <input type="range" id="cellCount" min="10" max="18" value="16"></label>
+        </fieldset>
+        <section id="output"></section>
+    </main>
+</body>
+
+</html>
